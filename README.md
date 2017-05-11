@@ -1,7 +1,6 @@
 # Base16 Grayscale
 
-Light and dark variants for Visual Studio Code of the Base16 Grayscale theme
-by Chris Kempson.
+Light and dark variants for Visual Studio Code of the Base16 Grayscale theme by Chris Kempson.
 
 ## Light Variant
 
@@ -13,6 +12,4 @@ by Chris Kempson.
 
 ## Credits
 
-Icons made by [Freepik](http://www.freepik.com/) from
-[flaticon.com](http://flaticon.com) is licensed by
-[CC 3.0 BY](ttp://creativecommons.org/licenses/by/3.0/).
+Icons made by [Freepik](http://www.freepik.com/) from [flaticon.com](http://flaticon.com) is licensed by [CC 3.0 BY](ttp://creativecommons.org/licenses/by/3.0/).

@@ -2,9 +2,13 @@
     "name": "theme-base16grayscale",
     "displayName": "Base16 Grayscale",
     "description": "Light and dark variants of the Base16 Grayscale theme by Chris Kempson",
-    "version": "0.0.1",
+    "version": "1.1.0",
     "publisher": "brettlempereur",
     "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brett-lempereur/theme-base16grayscale.git"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
