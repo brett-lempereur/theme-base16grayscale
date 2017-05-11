@@ -4,6 +4,7 @@
     "description": "Light and dark variants of the Base16 Grayscale theme by Chris Kempson",
     "version": "0.0.1",
     "publisher": "brettlempereur",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.12.0"
     },
