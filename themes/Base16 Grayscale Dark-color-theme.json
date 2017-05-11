@@ -1,0 +1,17 @@
+{
+	"tokenColors": "./base16-grayscale-dark.tmTheme",
+	"colors": {
+		"editor.background": "#101010",
+		"editorCursor.foreground": "#b9b9b9",
+		"editor.foreground": "#b9b9b9",
+		"editorWhitespace.foreground": "#525252",
+		"editor.lineHighlightBackground": "#52525255",
+		"editor.selectionBackground": "#464646",
+		"activityBar.background": "#222222",
+		"sideBar.background": "#333333",
+		"statusBar.background": "#444444",
+		"statusBar.noFolderBackground": "#444444",
+		"editorLineNumber.foreground": "#999999"
+	},
+	"name": "Base16 Grayscale Dark"
+}

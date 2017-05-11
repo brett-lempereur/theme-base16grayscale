@@ -1,0 +1,27 @@
+{
+    "name": "theme-base16grayscale",
+    "displayName": "Base16 Grayscale",
+    "description": "Light and dark variants of the Base16 Grayscale theme by Chris Kempson",
+    "version": "0.0.1",
+    "publisher": "brettlempereur",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Base16 Grayscale Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Base16 Grayscale Dark-color-theme.json"
+            },
+            {
+                "label": "Base16 Grayscale Light",
+                "uiTheme": "vs",
+                "path": "./themes/Base16 Grayscale Light-color-theme.json"
+            }
+        ]
+    }
+}

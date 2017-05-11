@@ -1,0 +1,17 @@
+{
+	"tokenColors": "./base16-grayscale-light.tmTheme",
+	"colors": {
+		"editor.background": "#f7f7f7",
+		"editorCursor.foreground": "#464646",
+		"editor.foreground": "#464646",
+		"editorWhitespace.foreground": "#ababab",
+		"editor.lineHighlightBackground": "#ababab55",
+		"editor.selectionBackground": "#b9b9b9",
+		"activityBar.background": "#666666",
+		"sideBar.background": "#EEEEEE",
+		"statusBar.background": "#444444",
+		"statusBar.noFolderBackground": "#444444",
+		"editorLineNumber.foreground": "#999999"
+	},
+	"name": "Base16 Grayscale Light"
+}
